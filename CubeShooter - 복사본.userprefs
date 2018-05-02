@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\03_Script\Player\PlayerHealth.cs">
+    <Files>
+      <File FileName="Assets\03_Script\shop\ShopUI.cs" Line="45" Column="48" />
+      <File FileName="Assets\03_Script\Player\GunController.cs" Line="1" Column="1" />
+      <File FileName="Assets\03_Script\Map\MapGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\03_Script\Enemy\EnemyManager\EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\03_Script\GameOverUi\SceneManager.cs" Line="31" Column="3" />
+      <File FileName="Assets\03_Script\Player\PlayerHealth.cs" Line="91" Column="37" />
+      <File FileName="Assets\03_Script\Player\Gun.cs" Line="1" Column="1" />
+      <File FileName="Assets\03_Script\GameOverUi\GameOverUi.cs" Line="1" Column="1" />
+      <File FileName="Assets\03_Script\Player\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\03_Script\Player\GravityBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\03_Script\shop\PointScript.cs" Line="23" Column="1" />
+      <File FileName="Assets\03_Script\shop\Pointmanager.cs" Line="17" Column="45" />
+      <File FileName="Assets\03_Script\shop\PointRecord.cs" Line="19" Column="1" />
+      <File FileName="Assets\03_Script\shop\Trigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\03_Script\Player\HealthManager.cs" Line="21" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

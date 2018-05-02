@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeShooter - 복사본", "Assembly-CSharp.csproj", "{2DED71B0-5D41-1ADA-383F-D5D9A29D9EC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeShooter - 복사본", "Assembly-CSharp-Editor.csproj", "{2E5E5063-812B-2D6B-BB7B-3919401F82F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DED71B0-5D41-1ADA-383F-D5D9A29D9EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DED71B0-5D41-1ADA-383F-D5D9A29D9EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DED71B0-5D41-1ADA-383F-D5D9A29D9EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DED71B0-5D41-1ADA-383F-D5D9A29D9EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5E5063-812B-2D6B-BB7B-3919401F82F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5E5063-812B-2D6B-BB7B-3919401F82F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5E5063-812B-2D6B-BB7B-3919401F82F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5E5063-812B-2D6B-BB7B-3919401F82F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
